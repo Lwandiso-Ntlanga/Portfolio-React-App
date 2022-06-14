@@ -10,7 +10,7 @@ function Experience() {
                 <Card.Header as="h6">Code Reviewer</Card.Header>
                 <Card.Body>
                     <Card.Title>HYPERIONDEV</Card.Title>
-                    <Card.Text>Freelance {<br/>} April 2021 - October 2021</Card.Text>
+                    <Card.Text>Freelance {<br/>} November 2021 - Present </Card.Text>
                     <Card.Text> Perform quality assurance. {<br/>} Developer assessment. </Card.Text>
                 </Card.Body>
             </Card>
