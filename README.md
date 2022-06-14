@@ -1,9 +1,27 @@
-#React Portfolio
+# React Portfolio
 
-##Project discription
+## Project discription
 
 This project portfolio was created using React Bootstrap. \
 This app aims to showcase more info about the auther "Lwandiso Ntlanga" such as technical skills, education background, work experience and projects I have been involved in.
+
+## Installation and Setup Instructions
+Clone down this repository. You will need and `npm` installed globally on your machine. \
+
+Installation:
+```npm install```
+
+To Run Test Suite:
+```npm test```
+
+To Start Server:
+```npm start```
+
+To Visit App Locally:
+```localhost:3000```
+
+To Visit App Externally:
+[My React Portfolio](http://lwandiso-ntlanga-app.s3-website.eu-west-2.amazonaws.com/home)
 
 ## Getting Started with Create React App
 
