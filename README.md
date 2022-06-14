@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+#React Portfolio
+
+##Project discription
+
+This project portfolio was created using React Bootstrap. \
+This app aims to showcase more info about the auther "Lwandiso Ntlanga" such as technical skills, education background, work experience and projects I have been involved in.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
